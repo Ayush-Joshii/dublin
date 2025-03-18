@@ -1,0 +1,57 @@
+li{
+    display: inline;
+}
+nav{
+    display: ruby-text;
+    position: relative;
+    height: 400px;
+    width: 100%;
+margin-top: 100px;}
+.logo1{
+  bottom: 3rem;
+  margin-left: 20px;
+
+}
+li{
+    margin-right: 1.6rem;
+}
+ul{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(85, 113, 143);
+    font-weight: 700;
+    min-height: 3.6rem;
+    -webkit-box-align: center;
+    align-items: center;
+    text-underline-offset: 0.4rem;
+    margin-top: 20px;
+
+}
+a{
+    text-decoration: none;
+    position: relative;
+    line-height: inherit;
+    text-underline-offset: 0.4rem;
+    color: rgb(0, 40, 85);
+    text-decoration: underline solid transparent;
+    font-weight: 700;
+    font-size: 1.4rem;
+    min-height: 3.6rem;
+    display: inline;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.field{
+    background-image: url("https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/70fbab80-600c-4fcf-bf3c-22b98057e2ff/St-patricks-dublin-wow.jpg?fm=webp&q=85&w=1180&h=787&fit=crop&dpr=1.5");
+    height: 600px;
+    width: 600px;
+background-size: cover;
+}
